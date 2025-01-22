@@ -8,7 +8,10 @@ package studentlist;
  *
  * @author khali_jwhe8us
  */
-public class PartTimeStudent {
+public class PartTimeStudent extends Student {
     public int numOfCourse;
+    public void msg (){
+        System.out.println("Part time student");
+    }
     
 }
