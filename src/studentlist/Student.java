@@ -5,20 +5,24 @@
 package studentlist;
 
 /**
+email: hreseh@sheridancollege.ca
+Date January 22/01/2025
  *
  * @author fagun at 12/05/2024
  */
 public class Student {
     private String name;
     private String studentID;
-    
-    
-    public String getName() {
-        return name;
+    private String address;
+
+    void setName(String fagun_Vankawala) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
 
-    public void setName(String name) {
-        this.name = name;
+    boolean getName() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
+
+    
    
 }
